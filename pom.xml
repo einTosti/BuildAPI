@@ -27,7 +27,7 @@
 
     <ciManagement>
         <system>Travis-CI</system>
-        <url>https://travis-ci.org/github/einTosti/BuildAPI</url>
+        <url>https://travis-ci.org/einTosti/BuildAPI</url>
     </ciManagement>
 
     <issueManagement>
