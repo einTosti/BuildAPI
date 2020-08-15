@@ -6,7 +6,7 @@
 
     <groupId>de.eintosti.buildsystem</groupId>
     <artifactId>BuildAPI</artifactId>
-    <version>2.15-Beta_2</version>
+    <version>2.15-Beta_3</version>
 
     <name>BuildAPI</name>
     <description>× Easy to use system for builders, with lots of great features</description>
