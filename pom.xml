@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.eintosti.buildsystem</groupId>
-    <artifactId>buildapi</artifactId>
-    <version>2.15-Beta</version>
+    <artifactId>BuildAPI</artifactId>
+    <version>2.15-Beta_2</version>
 
     <name>BuildAPI</name>
     <description>× Easy to use system for builders, with lots of great features</description>
