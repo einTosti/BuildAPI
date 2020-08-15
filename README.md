@@ -1,7 +1,7 @@
 # BuildAPI
 
-[![](https://jitpack.io/v/de.eintosti/buildapi.svg)](https://jitpack.io/#de.eintosti/buildapi)
-[![Discord](https://img.shields.io/discord/390919659874156560.svg?colorB=7289da&label=discord&logo=discord&logoColor=white)](https://discord.gg/q9UwaBT)
+[![](https://jitpack.io/v/de.eintosti/buildapi.svg?style=flat-square&logo=appveyor)](https://jitpack.io/#de.eintosti/buildapi)
+[![Discord](https://img.shields.io/discord/419460301403193344.svg?style=flat-square&colorB=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/Nt467Rf)
 
 ## How to use
 
