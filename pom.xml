@@ -6,7 +6,7 @@
 
     <groupId>de.eintosti.buildsystem</groupId>
     <artifactId>BuildAPI</artifactId>
-    <version>2.14</version>
+    <version>2.15-Beta</version>
 
     <name>BuildAPI</name>
     <description>× Easy to use system for builders, with lots of great features</description>
@@ -45,7 +45,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub einTosti Apache Maven Packages</name>
+            <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/einTosti/BuildAPI</url>
         </repository>
     </distributionManagement>
