@@ -19,12 +19,36 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <scm>
+        <url>https://github.com/einTosti/BuildAPI</url>
+        <connection>scm:git:git://github.com:einTosti/BuildAPI.git</connection>
+        <developerConnection>scm:git:git@github.com:einTosti/BuildAPI.git</developerConnection>
+    </scm>
+
+    <ciManagement>
+        <system>Travis-CI</system>
+        <url>https://travis-ci.com/github/einTosti/BuildAPI</url>
+    </ciManagement>
+
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/einTosti/BuildAPI/issues</url>
+    </issueManagement>
+
     <repositories>
         <repository>
             <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
         </repository>
     </repositories>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub einTosti Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/einTosti/BuildAPI</url>
+        </repository>
+    </distributionManagement>
 
     <dependencies>
         <!-- Spigot -->
