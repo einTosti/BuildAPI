@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.eintosti.buildsystem</groupId>
-    <artifactId>BuildAPI</artifactId>
+    <artifactId>buildapi</artifactId>
     <version>2.15-Beta</version>
 
     <name>BuildAPI</name>
